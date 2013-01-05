@@ -10,6 +10,11 @@ folder.
 The script will not download images that were embedded via HTML code. Only images that were uploaded directly to 
 your soup will be fetched.
 
-Usage:
-------
-  $ python soup.py <your soup rss file>.rss
+Tested with python 2.7.
+
+Usage
+-----
+
+Download your soup's RSS file to your computer. Then run the following command in a console::
+
+    python soup.py <your soup rss file>.rss
