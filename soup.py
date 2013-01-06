@@ -1,6 +1,5 @@
 import sys
 import os
-import argparse
 import xml.etree.ElementTree as ET
 import Queue
 import threading
